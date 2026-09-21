@@ -1,0 +1,26 @@
+main{
+margin-left: 30px;
+  margin-right: 30px;
+}
+h1{
+text-align: center;
+}
+.navbar ul{
+list-style-type: none;
+  background-color: hsl(297 36.4% 80.2%);
+  padding: 0px;
+  margin: 0px;
+  overflow: hidden;
+}
+.narbar a{
+color: hsl(297 20.5% 59.4%);
+  padding: 30px;
+  display: block;
+  text-align: center
+}
+.navbar a:hover{
+  background-color: hsl(226 58.3% 81.3%);
+}
+.navbar li{
+float: left;
+}
